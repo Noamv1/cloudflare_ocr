@@ -1,0 +1,9 @@
+name = "ocr-proxy"
+type = "javascript"
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2024-06-01"
+
+[vars]
+HF_KEY = "הכנס_כאן_את_המפתח_שלך_מ_HuggingFace"
+GROQ_KEY = "הכנס_כאן_את_המפתח_שלך_מ_Groq"
